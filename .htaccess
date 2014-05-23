@@ -1,0 +1,3 @@
+AuthType Basic 
+AuthName "Please input login and password!" 
+require valid-user
